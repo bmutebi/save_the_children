@@ -1,0 +1,46 @@
+body {
+	margin: 0;
+	text-align: center;
+	font-family: monospace;
+	line-height: 1.5;
+}
+
+nav, footer {
+	padding: 20px;
+	font-size: 16px;
+	background: lightgray;
+}
+
+video, img {
+	width: 70%;
+}
+
+img {
+	height: 300px;
+}
+
+.company {
+	font-size: 20px;
+	padding: 2px;
+}
+
+section {
+	width: 60%;
+	margin: 0 auto;
+	font-family: georgia;
+}
+
+input, textarea, button {
+	width: 100%;
+	display: block;
+	margin: 10px;
+	padding: 5px;
+}
+
+textarea {
+	height: 100px;
+}
+
+button {
+	width: auto ;
+}
